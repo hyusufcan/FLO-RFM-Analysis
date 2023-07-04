@@ -83,7 +83,7 @@ pd.set_option('display.width',1000)
 
 
 # 1. flo_data_20K.csv verisini okuyunuz.Dataframe’in kopyasını oluşturunuz.
-df_ = pd.read_csv("/Users/dlaraalcan/Downloads/crmAnalytics/flo_data_20K.csv")
+df_ = pd.read_csv("/Users/Downloads/crmAnalytics/flo_data_20K.csv")
 df = df_.copy()
 df.head()
 
